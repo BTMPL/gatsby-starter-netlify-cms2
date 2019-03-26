@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Ile zajmuje???
+title: 'Ile zajmuje :)'
 image: /img/home-jumbotron.jpg
 heading: Hello world.
 subheading: Minute ;)
