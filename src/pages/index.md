@@ -1,8 +1,8 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Ile zajmuje?
 image: /img/home-jumbotron.jpg
-heading: Ile zajmuje?
+heading: Hello world.
 subheading: Minute ;)
 mainpitch:
   title: Why Kaldi
